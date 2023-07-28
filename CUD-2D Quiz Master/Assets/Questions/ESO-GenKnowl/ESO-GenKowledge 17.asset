@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fb2d274e59df51448e1c526a8c895e1, type: 3}
+  m_Name: ESO-GenKowledge 17
+  m_EditorClassIdentifier: 
+  question: How do you gain access to the Imperials as a playable race?
+  answer: Purchase the Imerial Digital Edition through the Crown Store
+  correctionText: Players may also unlock the Imperial race by purchasing the Digital
+    Imperial Edition Upgrade in the Crown Store, which may be a part of any of the
+    three factions.
+  possibleAnswers:
+  - Scream, Cry, and stomp your feet until someone buys it for you.
+  - Sacrifice something important to the gods of ESO.
+  - Stand on one foot, hop in a circle, and pat your nose while sniffing your armpit.
+  - Win the race in PvP competition.
+  - Make 30 characters and level them all to CP 3600
+  citation: https://en.wikipedia.org/wiki/The_Elder_Scrolls_Online
+  trueOrFalse: 0
+  allottedTime: 10

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fb2d274e59df51448e1c526a8c895e1, type: 3}
+  m_Name: General Knowledge 002
+  m_EditorClassIdentifier: 
+  question: Why is the sky Blue?
+  answer: Refraction and Scattering
+  correctionText: The Oxygen in the air refracts the incoming blue lightwaves, scattering
+    them in many directions.
+  possibleAnswers:
+  - God painted it blue.
+  - Because it is Sad
+  - The sun gives off blue light
+  - it is traveling away from us really fast.
+  - It's not.
+  allottedTime: 10

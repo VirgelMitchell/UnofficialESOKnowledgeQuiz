@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fb2d274e59df51448e1c526a8c895e1, type: 3}
+  m_Name: General Knowledge 001
+  m_EditorClassIdentifier: 
+  question: 'In a free moment I once read that there are 5 percepts of gaming, or
+    perhaps I heard that while watching a video about becoming a game developer. 
+    These are: Clarity of Purpose, Simplicity of Interaction, Consise Coding, The
+    ability to Suspend Disbelief in what is real, and Engament of Imagination/Curiosity. 
+    Which of these is the most important?'
+  answer: Engagement of Imagination/Curiosity
+  correctionText: ' If players do not find the game interesting they won''t play.
+    The Correct answer is "Engagement of Imagination/Curiosity".'
+  possibleAnswers:
+  - Clarity of Purpose
+  - Simplicity of Interaction
+  - ' Consise Coding'
+  - The ability to Suspend Disbelief in what is real
+  - 42
+  allottedTime: 7
